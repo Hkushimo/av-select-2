@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A React app that fetches and displays Google Sheets data in a swipeable card format.",
   "main": "index.js",
+  "homepage": "https://your-username.github.io/repo-name",  // Add this line
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
